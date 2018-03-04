@@ -1,0 +1,172 @@
+{"status": "ok",
+  "feed": {
+    "url": "https://www.nasa.gov/rss/dyn/mission_pages/kepler/news/kepler-newsandfeatures-RSS.rss",
+    "title": "Kepler News and Features",
+    "link": "http://www.nasa.gov/",
+    "author": "",
+    "description": "Kepler News and Features RSS",
+    "image": ""
+  },
+  "items": [
+    {
+      "title": "New Clues to TRAPPIST-1 Planet Compositions, Atmospheres",
+      "pubDate": "2018-02-05 15:30:00",
+      "link": "http://www.nasa.gov/feature/jpl/new-clues-to-trappist-1-planet-compositions-atmospheres",
+      "guid": "http://www.nasa.gov/feature/jpl/new-clues-to-trappist-1-planet-compositions-atmospheres",
+      "author": "",
+      "thumbnail": "",
+      "description": "The seven Earth-size planets of TRAPPIST-1 are all mostly made of rock, with some having the potential to hold more water than Earth, according to a new study.",
+      "content": "The seven Earth-size planets of TRAPPIST-1 are all mostly made of rock, with some having the potential to hold more water than Earth, according to a new study.",
+      "enclosure": {
+        "link": "http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/pia22093-home2.gif?itok=-go9HvCi",
+        "type": "image/gif",
+        "length": 4037453
+      },
+      "categories": []
+    },
+    {
+      "title": "Multi-planet System Found Through Crowdsourcing",
+      "pubDate": "2018-01-11 21:42:00",
+      "link": "http://www.nasa.gov/feature/jpl/multi-planet-system-found-through-crowdsourcing",
+      "guid": "http://www.nasa.gov/feature/jpl/multi-planet-system-found-through-crowdsourcing",
+      "author": "",
+      "thumbnail": "",
+      "description": "A system of at least five exoplanets has been discovered by citizen scientists through a project called Exoplanet Explorers.",
+      "content": "A system of at least five exoplanets has been discovered by citizen scientists through a project called Exoplanet Explorers.",
+      "enclosure": {
+        "link": "http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/pia22088-main.jpg?itok=dZyQ5EPW",
+        "type": "image/jpeg",
+        "length": 1339118
+      },
+      "categories": []
+    },
+    {
+      "title": "Artificial Intelligence, NASA Data Used to Discover Eighth Planet Circling Distant Star",
+      "pubDate": "2017-12-14 18:00:00",
+      "link": "http://www.nasa.gov/press-release/artificial-intelligence-nasa-data-used-to-discover-eighth-planet-circling-distant-star",
+      "guid": "http://www.nasa.gov/press-release/artificial-intelligence-nasa-data-used-to-discover-eighth-planet-circling-distant-star",
+      "author": "",
+      "thumbnail": "",
+      "description": "Our solar system now is tied for most number of planets around a single star, with the recent discovery of an eighth planet circling Kepler-90, a Sun-like star 2,545 light years from Earth. The planet was discovered in data from NASA’s Kepler Space Telescope.",
+      "content": "Our solar system now is tied for most number of planets around a single star, with the recent discovery of an eighth planet circling Kepler-90, a Sun-like star 2,545 light years from Earth. The planet was discovered in data from NASA’s Kepler Space Telescope.",
+      "enclosure": {
+        "link": "http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/17-098.jpg?itok=p21WlrEJ",
+        "type": "image/jpeg",
+        "length": 1250995
+      },
+      "categories": []
+    },
+    {
+      "title": "Kepler-90 System Planet Sizes",
+      "pubDate": "2017-12-14 14:49:00",
+      "link": "http://www.nasa.gov/image-feature/ames/kepler-90-system-planet-sizes",
+      "guid": "http://www.nasa.gov/image-feature/ames/kepler-90-system-planet-sizes",
+      "author": "",
+      "thumbnail": "",
+      "description": "The Kepler-90 planets have a similar configuration to our solar system with small planets found orbiting close to their star, and the larger planets found farther away.",
+      "content": "The Kepler-90 planets have a similar configuration to our solar system with small planets found orbiting close to their star, and the larger planets found farther away.",
+      "enclosure": {
+        "link": "http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/fig5-stacked-90ss_planets-callouts.jpg?itok=SmyufSC-",
+        "type": "image/jpeg",
+        "length": 231869
+      },
+      "categories": []
+    },
+    {
+      "title": "Kepler-90 Planets Orbit Close to Their Star",
+      "pubDate": "2017-12-14 14:48:00",
+      "link": "http://www.nasa.gov/image-feature/ames/kepler-90-planets-orbit-close-to-their-star",
+      "guid": "http://www.nasa.gov/image-feature/ames/kepler-90-planets-orbit-close-to-their-star",
+      "author": "",
+      "thumbnail": "",
+      "description": "Kepler-90 is a Sun-like star, but all of its eight planets are scrunched into the equivalent distance of Earth to the Sun. The inner planets have extremely tight orbits with a “year” on Kepler-90i lasting only 14.4 days. In comparison, Mercury’s orbit is 88 days. Consequently, Kepler-90i has an average surface temperature of 800 degrees F...",
+      "content": "Kepler-90 is a Sun-like star, but all of its eight planets are scrunched into the equivalent distance of Earth to the Sun. The inner planets have extremely tight orbits with a “year” on Kepler-90i lasting only 14.4 days. In comparison, Mercury’s orbit is 88 days. Consequently, Kepler-90i has an average surface temperature of 800 degrees F...",
+      "enclosure": {
+        "link": "http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/fig6-comparison-split-kepler-90_inner-ss.jpg?itok=IPjyBNwR",
+        "type": "image/jpeg",
+        "length": 172338
+      },
+      "categories": []
+    },
+    {
+      "title": "Could Kepler-90 Have More Planets?",
+      "pubDate": "2017-12-14 14:47:00",
+      "link": "http://www.nasa.gov/image-feature/ames/could-kepler-90-have-more-planets",
+      "guid": "http://www.nasa.gov/image-feature/ames/could-kepler-90-have-more-planets",
+      "author": "",
+      "thumbnail": "",
+      "description": "This graphic shows that a small area around the Kepler-90 system, on the left, has been searched by the Kepler space telescope. Compared to our solar system, where we know of planets farther out, it is possible that Kepler-90 has even more planets. If planets (in the blue area) do exist, they probably would not have transited enough times...",
+      "content": "This graphic shows that a small area around the Kepler-90 system, on the left, has been searched by the Kepler space telescope. Compared to our solar system, where we know of planets farther out, it is possible that Kepler-90 has even more planets. If planets (in the blue area) do exist, they probably would not have transited enough times...",
+      "enclosure": {
+        "link": "http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/fig7-not-searched-90system-ss.jpg?itok=SdGFVMEe",
+        "type": "image/jpeg",
+        "length": 172715
+      },
+      "categories": []
+    },
+    {
+      "title": "Planetary Systems by Number of Known Planets",
+      "pubDate": "2017-12-14 14:46:00",
+      "link": "http://www.nasa.gov/image-feature/ames/planetary-systems-by-number-of-known-planets",
+      "guid": "http://www.nasa.gov/image-feature/ames/planetary-systems-by-number-of-known-planets",
+      "author": "",
+      "thumbnail": "",
+      "description": "This figure shows the number of systems with one, two, three, planets, etc. Each dot represents one known planetary system. We know of more than 2,000 one-planet systems, and progressively fewer systems with many planets. The discovery of Kepler-90i, the first known exoplanet system with eight planets, is a hint of more highly populated...",
+      "content": "This figure shows the number of systems with one, two, three, planets, etc. Each dot represents one known planetary system. We know of more than 2,000 one-planet systems, and progressively fewer systems with many planets. The discovery of Kepler-90i, the first known exoplanet system with eight planets, is a hint of more highly populated...",
+      "enclosure": {
+        "link": "http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/fig8-planetary-systems-histo.jpg?itok=ZyqD7-nP",
+        "type": "image/jpeg",
+        "length": 354591
+      },
+      "categories": []
+    },
+    {
+      "title": "Exoplanet Discoveries",
+      "pubDate": "2017-12-14 14:45:00",
+      "link": "http://www.nasa.gov/image-feature/ames/exoplanet-discoveries",
+      "guid": "http://www.nasa.gov/image-feature/ames/exoplanet-discoveries",
+      "author": "",
+      "thumbnail": "",
+      "description": "Today, as shown in figure 10, we know of over 3,500 confirmed exoplanets, with more than 2,500 of those found in the Kepler data. These planets range in size from larger than Jupiter to smaller than Earth. In just a couple decades, thanks largely to Kepler, we have gone from suspecting exoplanets existed to knowing that there are more...",
+      "content": "Today, as shown in figure 10, we know of over 3,500 confirmed exoplanets, with more than 2,500 of those found in the Kepler data. These planets range in size from larger than Jupiter to smaller than Earth. In just a couple decades, thanks largely to Kepler, we have gone from suspecting exoplanets existed to knowing that there are more...",
+      "enclosure": {
+        "link": "http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/fig10-exoplanetdisc-dec14.jpg?itok=8Zi2ckQ4",
+        "type": "image/jpeg",
+        "length": 356480
+      },
+      "categories": []
+    },
+    {
+      "title": "NASA Hosts Media Teleconference to Announce Latest Kepler Discovery",
+      "pubDate": "2017-12-08 18:30:00",
+      "link": "http://www.nasa.gov/press-release/nasa-hosts-media-teleconference-to-announce-latest-kepler-discovery",
+      "guid": "http://www.nasa.gov/press-release/nasa-hosts-media-teleconference-to-announce-latest-kepler-discovery",
+      "author": "",
+      "thumbnail": "",
+      "description": "NASA will host a media teleconference at 1 p.m. EST Thursday, Dec. 14, to announce the latest discovery made by its planet-hunting Kepler space telescope.",
+      "content": "NASA will host a media teleconference at 1 p.m. EST Thursday, Dec. 14, to announce the latest discovery made by its planet-hunting Kepler space telescope.",
+      "enclosure": {
+        "link": "http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/m17-147.png?itok=UBz-T5MD",
+        "type": "image/png",
+        "length": 1254511
+      },
+      "categories": []
+    },
+    {
+      "title": "Kepler’s Gaze Shifts Toward New Targets — Supernovae, the ‘Beehive Cluster’ and Earth",
+      "pubDate": "2017-12-07 13:00:00",
+      "link": "http://www.nasa.gov/feature/ames/kepler-s-gaze-shifts-toward-new-targets-supernovae-the-beehive-cluster-and-earth",
+      "guid": "http://www.nasa.gov/feature/ames/kepler-s-gaze-shifts-toward-new-targets-supernovae-the-beehive-cluster-and-earth",
+      "author": "",
+      "thumbnail": "",
+      "description": "The sixteenth observing campaign of the Kepler spacecraft’s K2 extended mission is now underway. The campaign has prospects for discoveries among 30,000 objects in the direction of the constellation Cancer. The cartoon illustrates some of the objects of interest that Kepler is observing for 80 days, from Dec. 7 to Feb. 25, 2018.",
+      "content": "The sixteenth observing campaign of the Kepler spacecraft’s K2 extended mission is now underway. The campaign has prospects for discoveries among 30,000 objects in the direction of the constellation Cancer. The cartoon illustrates some of the objects of interest that Kepler is observing for 80 days, from Dec. 7 to Feb. 25, 2018.",
+      "enclosure": {
+        "link": "http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/c16cartoon300dpi-full.jpg?itok=luMLkEFR",
+        "type": "image/jpeg",
+        "length": 5715690
+      },
+      "categories": []
+    }
+  ]
+}
